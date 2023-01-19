@@ -1,0 +1,1 @@
+instance_create_layer(x, y, "Attacks", obj_bullet_burst)
